@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+#password
+password.txt
+
 # next.js
 /.next/
 /out/
